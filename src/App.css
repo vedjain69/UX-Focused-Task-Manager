@@ -1,0 +1,113 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+*{
+  color: white;
+}
+.body{
+  background-color: #282c34;
+}
+
+.task{
+  width: 700px;
+  height: 162px;
+  border-radius: 10px;
+  background-color: #31353c;
+  display: grid
+  ;
+}
+.list{
+  width: 700px;
+  border-radius: 10px;
+  background-color: #31353c;
+  height: 700px;
+}
+
+.heading{
+margin-top: 2rem;
+}
+.buttons{
+  width: 700px;
+}
+
+.orders{
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+
+.task .row{
+      padding-left: 15px;
+      padding-right: 15px;
+      padding-top: 15px;
+}
+button{
+  width: 8rem;
+    height: 3rem;
+}
+.list{
+  padding: 15px;
+}
+.cardcomp{
+  background-color: #3e424a;
+  border-radius: 4px;
+  height: 80px;
+  margin-bottom: 1rem;
+  padding-left: 1rem;
+}
+.cardcomp p{
+  color:rgb(172, 172, 172)
+}
+strike{
+  color:rgb(172, 172, 172)
+}
+.actions{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.actbut{
+  width: 7rem;
+    height: 2.5rem;
+    margin: 2px;
+}
+
