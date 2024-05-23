@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/UX-Focused-Task-Manager/static/css/main.d93764fb.css",
+    "main.js": "/UX-Focused-Task-Manager/static/js/main.b3ace59c.js",
+    "static/js/453.ed3810f9.chunk.js": "/UX-Focused-Task-Manager/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/UX-Focused-Task-Manager/index.html",
+    "main.d93764fb.css.map": "/UX-Focused-Task-Manager/static/css/main.d93764fb.css.map",
+    "main.b3ace59c.js.map": "/UX-Focused-Task-Manager/static/js/main.b3ace59c.js.map",
+    "453.ed3810f9.chunk.js.map": "/UX-Focused-Task-Manager/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d93764fb.css",
+    "static/js/main.b3ace59c.js"
+  ]
+}
